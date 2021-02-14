@@ -1,1 +1,1 @@
-# django_costs
+# Django application for managing dog related costs
